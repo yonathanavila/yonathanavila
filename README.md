@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-- 🔭 Working on Blockchain and Ethereum Leyer 2
+- 🔭 Working on Blockchain and Ethereum Layer 2
 - 🌱 Learning English
 - 📫 How to reach me: yonathanacruz2015@gmail.com
 
