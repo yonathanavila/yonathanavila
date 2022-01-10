@@ -11,9 +11,9 @@
 
 ### Hi there 👋
 
-- 🔭 Working on Blockchain and Ethereum Layer 2
-- 🌱 Learning English
-- 📫 How to reach me: yonathanacruz2015@gmail.com
+- 🔭 Working on Blockchain
+- 🌱 Learning Ethereum Layer 2 and Bitcoin Lightning
+- 📫 How to reach me: yonathancruz2015@gmail.com
 
 <!--
 **yonathanavila/yonathanavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
