@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yonathanavila.yonathanavila)
-
 ![Visitor Badge](https://visitor-badges.glitch.me?username=YOUR_USERNAME&repo=YOUR_REPO_ID)
 
 ![Turupawn's github stats](https://github-readme-stats.vercel.app/api?username=yonathanavila&show_icons=true)
