@@ -1,4 +1,12 @@
 ![Visitor Badge](https://visitor-badges.glitch.me?username=YOUR_USERNAME&repo=YOUR_REPO_ID)
+<h2>Follow  Me</h2>
+<p align="left">
+	<a href="https://github.com/yonathanavila"><img src="https://img.shields.io/github/followers/yonathanavila.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/alexisxcruz"><img src="https://img.shields.io/twitter/follow/alexisxcruz?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/yonathan-cruz-326b141b2"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a><img src="https://visitor-badge.glitch.me/badge?page_id=yonathanavila.visitor-badge" /></a>
+</p>
+
 
 ![Turupawn's github stats](https://github-readme-stats.vercel.app/api?username=yonathanavila&show_icons=true)
 
