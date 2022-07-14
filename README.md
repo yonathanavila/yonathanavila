@@ -1,3 +1,5 @@
+## 👋 Hey everyone, I'm Yonathan Cruz FullStack Dev®™ 👋
+
 ## Tech Stack
 * 💻🐍 Python | TypeScript | Javascript | Solidity | Flutter 📱
 <h2>Follow  Me</h2>
