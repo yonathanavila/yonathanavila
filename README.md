@@ -8,8 +8,9 @@
 	<a><img src="https://visitor-badge.glitch.me/badge?page_id=yonathanavila.visitor-badge" /></a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=yonathanavila&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for yonathanavila" width="700">
 
-![Turupawn's github stats](https://github-readme-stats.vercel.app/api?username=yonathanavila&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yonathanavila&theme=jolly" width="700">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yonathanavila&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
