@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Yonathan Cruz FullStack Dev®™ 👋
+## 👋 Hey everyone, I'm @yonathanavila FullStack Dev®™ 👋
 
 ## Tech Stack
 * 💻🐍 Python | TypeScript | Javascript | Solidity | Flutter 📱
