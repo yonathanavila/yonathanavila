@@ -8,7 +8,11 @@
 	<a><img src="https://visitor-badge.glitch.me/badge?page_id=yonathanavila.visitor-badge" /></a>
 </p>
 
-<img src="https://github.com/yonathanavila/yonathanavila/blob/main/image/yonathanavila-2021.gif" width="700">
+## GitHub Stats
+
+If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can view the graphic, make a video, download the STL file, add annotations, and even view it in Virtual Reality. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
+
+<img src="https://github.com/yonathanavila/yonathanavila/blob/main/image/yonathanavila-2021.gif" width="600">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yonathanavila&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for yonathanavila" width="700">
 
