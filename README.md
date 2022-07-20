@@ -1,7 +1,7 @@
 ## 👋 Hey everyone, I'm @yonathanavila FullStack Dev®™ 👋
 
 ## Tech Stack
-* 💻🐍 Python | TypeScript | Javascript | Solidity | Flutter 📱
+* 💻🐍 Python | TypeScript | Javascript | Solidity
 <h2>Follow  Me</h2>
 <p align="left">
 	<a href="https://github.com/yonathanavila"><img src="https://img.shields.io/github/followers/yonathanavila.svg?label=GitHub&style=social" alt="GitHub"></a>
